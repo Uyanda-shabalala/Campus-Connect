@@ -1,0 +1,22 @@
+# Ignore uploaded user files
+public/uploads/
+
+# Ignore composer vendor folder
+vendor/
+
+# Ignore sensitive config
+app/config/
+config.php
+.env
+
+# Ignore caches and temp files
+tmp/
+cache/
+
+# Ignore IDE configs
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
